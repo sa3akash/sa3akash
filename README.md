@@ -1,5 +1,5 @@
-Hi 👋 My name is Hi 👋 My name is Shakil Ahmed
-==============================================
+Hi 👋 My name is Shakil Ahmed
+=============================
 
 Full Stack Web Developer
 ------------------------
