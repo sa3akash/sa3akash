@@ -6,13 +6,19 @@ Full Stack Web Developer
 
 I love codding because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website or anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like architecture designs and communication. I realized, that what differentiates between successful projects from failed projects is those things exactly. Building a proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
-*   🌍  I'm based in Bangladesh
-*   🖥️  See my portfolio at [sa3akash](http://portfolio-f9a87.web.app)
-*   ✉️  You can contact me at [sa2avroo@gmail.com](mailto:sa2avroo@gmail.com)
-*   🚀  I'm currently working on [Facebook Clone](http://github.com/sa3akash/facebook-clone-MERN)
-*   🧠  I'm learning Advanced React Native
-*   🤝  I'm open to collaborating on Open Sourse Project<a href="https://www.github.com/sa3akash" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Bangladesh
+* 🖥️  See my portfolio at [sa3akash](http://portfolio-f9a87.web.app)
+* ✉️  You can contact me at [sa2avroo@gmail.com](mailto:sa2avroo@gmail.com)
+* 🚀  I'm currently working on [Facebook Clone](http://github.com/sa3akash/facebook-clone-MERN)
+* 🧠  I'm learning Advanced React Native
+* 🤝  I'm open to collaborating on Open Sourse Project
+
+<a href="https://www.github.com/sa3akash" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -46,16 +52,24 @@ I love codding because I love helping businesses showcase their full potential t
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sa3akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/sa3akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sa3akash"><img src="https://github-readme-stats.vercel.app/api?username=sa3akash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sa3akash's GitHub stats" /></a><a
-                      href="http://www.github.com/sa3akash"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sa3akash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/sa3akash"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sa3akash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/sa3akash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3akash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/sa3akash/facebook-clone-MERN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sa3akash&repo=facebook-clone-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sa3akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sa3akash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sa3akash"><img src="https://github-readme-stats.vercel.app/api?username=sa3akash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sa3akash's GitHub stats" /></a>
+
+<a href="http://www.github.com/sa3akash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sa3akash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sa3akash"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sa3akash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/sa3akash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa3akash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/sa3akash/facebook-clone-MERN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sa3akash&repo=facebook-clone-MERN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
