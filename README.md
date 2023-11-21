@@ -86,3 +86,10 @@ src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa3akash&show_icons=true&locale=en" alt="sa3akash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa3akash&" alt="sa3akash" /></p>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/sa3akash/sa3akash/output/snake.svg" alt="Snake animation" />
+
+###
