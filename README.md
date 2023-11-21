@@ -90,6 +90,3 @@ src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-
 
 ###
 
-<img src="https://raw.githubusercontent.com/sa3akash/sa3akash/output/snake.svg" alt="Snake animation" />
-
-###
