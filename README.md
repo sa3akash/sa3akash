@@ -92,16 +92,22 @@ src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-
 
 ###
 
-
 # 🔒 LeadCode Stats:
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 5px;">
+<div align="center" style="display: flex; gap: 5px;">
+
+<div>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sa3akash?ext=activity)
 ![](https://leetcard.jacoblin.cool/sa3akash?ext=contest)
 
+</div>
+<div>
+
 [![sa3akash LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sa3akash&theme=Dark)](https://github.com/sa3akash/leetcode-stats)
 ![](https://leetcard.jacoblin.cool/sa3akash?ext=heatmap)
+
+</div>
 
 </div>
 
