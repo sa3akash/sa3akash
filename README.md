@@ -94,18 +94,15 @@ src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-
 
 # 🔒 LeadCode Stats:
 
+
 <div align="center" style="display: flex; gap: 5px;">
 
-<div>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sa3akash?ext=activity)
-![](https://leetcard.jacoblin.cool/sa3akash?ext=contest)
-
-</div>
-<div>
-
 [![sa3akash LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sa3akash&theme=Dark)](https://github.com/sa3akash/leetcode-stats)
-![](https://leetcard.jacoblin.cool/sa3akash?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sa3akash?ext=activity)
+
+<div>
+
+
 
 </div>
 
@@ -129,8 +126,4 @@ src="https://img.shields.io/github/followers/sa3akash?logo=github&style=for-the-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sa3akash&show_icons=true&locale=en&layout=compact" alt="sa3akash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sa3akash&show_icons=true&locale=en" alt="sa3akash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sa3akash&" alt="sa3akash" /></p> -->
